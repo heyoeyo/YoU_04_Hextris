@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6341220ff79984947abafbed3f39a232, type: 3}
+  m_Name: ShapeQueue
+  m_EditorClassIdentifier: 
+  allowable_shapes:
+  - {fileID: 11400000, guid: ca6d0101b7e8ce241bef857dff3327d6, type: 2}
+  - {fileID: 11400000, guid: 3a1329cbe0c13fa4589bf69a650cb9a9, type: 2}
+  - {fileID: 11400000, guid: dd29b9660e04276428f83bdda73ae4f5, type: 2}
+  - {fileID: 11400000, guid: bc1e3fc01e372ee4b83f82acea5cd527, type: 2}
+  - {fileID: 11400000, guid: 1a6adde813d2c6b449044ceffd8fb363, type: 2}
+  - {fileID: 11400000, guid: c959e8867616c6a46b025e06353fe2fa, type: 2}
+  - {fileID: 11400000, guid: 1874d1acdf025dc49aad381d6d70efb3, type: 2}
