@@ -1,6 +1,8 @@
 # Year of Unity - April, May & June: Hextris
 
-![Screenshot of game](github_images/screenshot.jpg)
+<p align="center">
+  <img width="210" height="325" src="github_images/screenshot.jpg">
+</p>
 
 My fourth not-quite-monthly game of 2022. It's 2.5 months late, though not for lack of trying. This one is a twist on the popular game [Tetris](https://en.wikipedia.org/wiki/Tetris), using a hexagonal board and shapes in place of the original rectangular arrangement. The usual 'fill a row to clear it' rule applies and the game ends when the player runs out of room to place new pieces on the board. The zig-zag arrangement of the board introduces several interesting twists, including the fact that shapes can (in general) be rotated 60 degrees (instead of the usual 90) and that blocks cannot fall straight down!
 
